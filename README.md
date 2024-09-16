@@ -1,6 +1,6 @@
 # TradeStation EasyLanguage for Algorithmic Trading
 
-<a href="https://www.packtpub.com/en-in/product/tradestation-easylanguage-for-algorithmic-trading-9781835881200"> <img src="	https://content.packt.com/_/image/original/B22217/cover_image_large.jpg" alt="TradeStation EasyLanguage for Algorithmic Trading" itemprop="url" height="256px" align="right">
+<a href="https://www.packtpub.com/en-in/product/tradestation-easylanguage-for-algorithmic-trading-9781835881200"> <img src="https://content.packt.com/_/image/original/B22217/cover_image_large.jpg" alt="TradeStation EasyLanguage for Algorithmic Trading" itemprop="url" height="256px" align="right">
 
 This is the code repository for [TradeStation EasyLanguage for Algorithmic Trading](https://www.packtpub.com/en-in/product/tradestation-easylanguage-for-algorithmic-trading-9781835881200), published by Packt.
 
